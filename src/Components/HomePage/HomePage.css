@@ -1,0 +1,62 @@
+.new-products{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    flex-wrap: wrap;
+    padding-right: 0px;
+}
+
+#entire-page .MuiPaper-root{
+    margin-left: 20px !important;
+}
+
+#entire-page{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: baseline;
+}
+
+.product-container{
+    height: fit-content;
+    width: 90vw;
+    right: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    flex-wrap: wrap;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #37f71597;
+}
+
+#entire-page .new-products{
+    padding-right: 0vw;
+    
+}
+
+.orders{
+    margin-bottom: 100px;
+}
+
+#fav-container{
+    background-color: whitesmoke;
+}
+
+.li-ordered{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.li-ordered p{
+    margin-left: 20px;
+}
+
+.orders ul{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}

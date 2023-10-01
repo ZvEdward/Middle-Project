@@ -1,0 +1,90 @@
+.error-massage {
+  color: red;
+}
+
+#main-form-signup {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0.174);
+  padding: 20px;
+  border-radius: 20px;
+  width: 400px;
+  max-width: 80vw;
+}
+
+#entire-page-signup p {
+  color: #00802D;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+#entire-page-signup h1 {
+  color: #00802D;
+}
+
+.sign-in-input {
+  border-radius: 40px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  outline: none;
+  width: 100px;
+  margin: 5px;
+}
+
+#entire-page-signup select {
+  border-radius: 40px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  outline: none;
+  width: 60vw;
+  max-width: 350px;}
+
+#entire-page-signup {
+  margin-top: 100px;
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+}
+
+#entire-page-signup input {
+  width: 60vw;
+  max-width: 350px;
+  min-width: 100px;
+  height: 45px;
+  padding: 12px;
+  border-radius: 12px;
+  border: 1.5px solid lightgrey;
+  outline: none;
+  transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+  box-shadow: 0px 0px 20px -18px;
+}
+
+#entire-page-signup input:hover {
+  border: 2px solid lightgrey;
+  box-shadow: 0px 0px 20px -17px;
+}
+
+#entire-page-signup input:active {
+  transform: scale(0.95);
+}
+
+#entire-page-signup input:focus {
+  border: 2px solid grey;
+}
+
+#entire-page-signup label {
+  margin: 20px;
+}
+
+#submit-button {
+  background-color: #00802D;
+  color: white;
+  align-self: center;
+  scale: 2;
+  margin: 20px;
+  margin-top: 40px;
+}

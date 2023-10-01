@@ -1,0 +1,148 @@
+.error-massage{
+    color: red;
+}
+
+#photo-div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+}
+
+.single-photo{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    border-radius: 10px;
+    border: 2px black solid;
+    margin: 5px;
+    height: 225px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.delete-button{
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    letter-spacing: 2px;
+
+}
+
+#descirtion{
+    height: 200px;
+}
+
+.file-input{
+    display: none;
+}
+
+.pic {
+    height: 225px;
+    width: 150px;
+    border-radius: 10px;
+
+}
+
+.error-massage{
+    color: red;
+}
+
+#main-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: rgba(0, 0, 0, 0.174);
+    padding: 20px;
+    border-radius: 20px;
+    width: 400px;
+    max-width: 80vw;
+
+}
+
+#donate-page p{
+    color: #00802D;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+#donate-page h1{
+    color: #00802D;
+}
+
+.sign-in-input {
+    border-radius: 40px;
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    outline: none;  
+    width: 100px;
+    margin: 5px;
+  }
+
+  #donate-page select{
+    border-radius: 40px;
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    outline: none;  
+    width: 60vw;
+    max-width: 350px;
+}
+
+  #entire-page-donate{
+    margin-top: 100px;
+    width: 90vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#main-form label{
+    margin: 20px;
+}
+
+#main-form #photo-div label{
+    margin: 10px;
+}
+
+#submit-button2{
+    background-color: #00802D;
+    color: white;
+    align-self: center;  
+    scale: 1.4; 
+    margin: 20px;
+    margin-top: 40px;
+}
+
+
+
+#donate-page input{
+    width: 60vw;
+    max-width: 350px;
+    height: 45px;
+    padding: 12px;
+    border-radius: 12px;
+    border: 1.5px solid lightgrey;
+    outline: none;
+    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0px 0px 20px -18px;
+    text-overflow: unset;
+}
+
+#donate-page input:hover {
+    border: 2px solid lightgrey;
+    box-shadow: 0px 0px 20px -17px;
+  }
+
+  #donate-page input:active {
+    transform: scale(0.95);
+  }
+
+  #donate-page input:focus {
+    border: 2px solid grey;
+  }
+
+  #donate-page{
+    margin-top: 100px;
+  }

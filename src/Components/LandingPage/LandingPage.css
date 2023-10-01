@@ -1,0 +1,142 @@
+.error-massage{
+    color: red;
+}
+
+#main-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: rgba(0, 0, 0, 0.174);
+    padding: 20px;
+    border-radius: 20px;
+    width: 400px;
+}
+
+
+
+#landing-page h1{
+    color: #00802D;
+}
+
+#landing-page input {
+    border-radius: 40px;
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    outline: none;  
+    width: 350px;
+  }
+
+  #landing-page select{
+    border-radius: 40px;
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    outline: none;  
+    width: 370px;
+}
+
+  #entire-page-landing{
+    margin-top: 100px;
+    width: 90vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+}
+
+#submit-button{
+    background-color: #00802D;
+    color: white;
+    align-self: center;   
+    scale: 2;
+    margin: 20px;
+    margin-top: 40px;
+}
+
+#hero-section{
+    width: 100vw;
+    border: 0px black solid;
+    border-radius: 10%;
+    z-index: -1;
+    position: fixed;
+    top: 0px;
+}
+#hero-section2{
+    width:1000px;
+}
+
+#vid-container{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#hero-container-1{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding-top: 50px;
+}
+
+#hero-container-2{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(206 255 188);
+}
+
+#hero-container-3{
+    width: 100vw;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: center;
+    background-color: white;
+    padding-top: 50px;
+}
+
+#intro-text-container{
+    width: 100vw;
+    height: 550px;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #00802db6;
+    overflow: auto;
+
+}
+
+#logo-pic{
+    height: 150px;
+    margin-top: 20px;
+}
+
+#info-text{
+    color: white;
+    text-align: center;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+#info-text2{
+    color: #00802D;
+    text-align: right;
+    height: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+#button-div{
+width: 100vw;
+display: flex;
+justify-content: center;
+}

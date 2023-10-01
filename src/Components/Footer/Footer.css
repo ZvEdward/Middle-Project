@@ -1,0 +1,43 @@
+/* Footer.css */
+/* .footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .contact-info {
+    font-size: 14px;
+  }
+  
+  .contact-info span {
+    margin-right: 10px;
+  }
+  
+  .contact-info span:last-child {
+    margin-right: 0;
+  }
+   */
+
+   /* Footer.css */
+.footer {
+    background-color: white;
+    color: black;
+    padding: 20px; /* Increased padding for a thicker appearance */
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .title {
+    font-size: 18px; /* Larger font size for the title */
+    margin-bottom: 10px; /* Space below the title */
+  }
+  
+  .contact-info {
+    font-size: 14px;
+  }
+  
+  .contact-info p {
+    margin: 5px 0; /* Separate names and phones on different lines */
+  }
+  

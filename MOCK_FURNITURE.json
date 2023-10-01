@@ -1,0 +1,902 @@
+[
+    {
+      "title": "Flipstorm",
+      "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue.",
+      "photo": [
+        "http://dummyimage.com/134x100.png/ff4444/ffffff",
+        "http://dummyimage.com/177x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/119x100.png/ff4444/ffffff"
+      ],
+      "category": "Sofas",
+      "color": "Yellow",
+      "condition": "Link New",
+      "publishDate": "09/09/2023",
+      "isAtStorage": "16/05/2023",
+      "address": "PO Box 3806",
+      "donerName": "Sawyere Gabbat",
+      "donerPhone": "894-482-3615",
+      "furnitureID": "3555653268253829"
+    },
+    {
+      "title": "Tazzy",
+      "description": "Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "photo": [
+        "http://dummyimage.com/149x100.png/dddddd/000000",
+        "http://dummyimage.com/180x100.png/dddddd/000000",
+        "http://dummyimage.com/152x100.png/cc0000/ffffff"
+      ],
+      "category": "Storage",
+      "color": "Pink",
+      "condition": "Link New",
+      "publishDate": "31/01/2023",
+      "isAtStorage": "24/07/2023",
+      "address": "15th Floor",
+      "donerName": "Rickard Cator",
+      "donerPhone": "478-215-1170",
+      "furnitureID": "3581710955300129"
+    },
+    {
+      "title": "Eire",
+      "description": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy.",
+      "photo": [
+        "http://dummyimage.com/156x100.png/dddddd/000000",
+        "http://dummyimage.com/186x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/236x100.png/ff4444/ffffff"
+      ],
+      "category": "Storage",
+      "color": "Blue",
+      "condition": "Gently Used",
+      "publishDate": "05/12/2022",
+      "isAtStorage": "23/01/2023",
+      "address": "PO Box 91544",
+      "donerName": "Carine De Vile",
+      "donerPhone": "591-514-1707",
+      "furnitureID": "4041599669330"
+    },
+    {
+      "title": "Zava",
+      "description": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+      "photo": [
+        "http://dummyimage.com/240x100.png/ff4444/ffffff",
+        "http://dummyimage.com/111x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/234x100.png/cc0000/ffffff"
+      ],
+      "category": "Beds",
+      "color": "Yellow",
+      "condition": "Link New",
+      "publishDate": "03/07/2023",
+      "isAtStorage": "20/01/2023",
+      "address": "8th Floor",
+      "donerName": "Shaun Piell",
+      "donerPhone": "868-352-0714",
+      "furnitureID": "633458682035031806"
+    },
+    {
+      "title": "Meevee",
+      "description": "Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.",
+      "photo": [
+        "http://dummyimage.com/221x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/179x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/196x100.png/5fa2dd/ffffff"
+      ],
+      "category": "Sofas",
+      "color": "Black",
+      "condition": "Used",
+      "publishDate": "14/12/2022",
+      "isAtStorage": "13/07/2023",
+      "address": "Room 1754",
+      "donerName": "Sonnie Moriarty",
+      "donerPhone": "817-135-3715",
+      "furnitureID": "3552814985078021"
+    },
+    {
+      "title": "Cogidoo",
+      "description": "Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+      "photo": [
+        "http://dummyimage.com/104x100.png/ff4444/ffffff",
+        "http://dummyimage.com/100x100.png/ff4444/ffffff",
+        "http://dummyimage.com/182x100.png/cc0000/ffffff"
+      ],
+      "category": "Tables",
+      "color": "Blue",
+      "condition": "Used",
+      "publishDate": "28/10/2022",
+      "isAtStorage": "20/02/2023",
+      "address": "Suite 15",
+      "donerName": "Ricoriki Cochet",
+      "donerPhone": "388-619-2951",
+      "furnitureID": "3541072784535881"
+    },
+    {
+      "title": "Jabbertype",
+      "description": "Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis.",
+      "photo": [
+        "http://dummyimage.com/208x100.png/cc0000/ffffff",
+        "http://dummyimage.com/155x100.png/cc0000/ffffff",
+        "http://dummyimage.com/166x100.png/ff4444/ffffff"
+      ],
+      "category": "Electronics",
+      "color": "Brown",
+      "condition": "Salvage",
+      "publishDate": "21/02/2023",
+      "isAtStorage": "12/04/2023",
+      "address": "PO Box 5681",
+      "donerName": "Shannan Curuclis",
+      "donerPhone": "715-490-2747",
+      "furnitureID": "5007660175398026"
+    },
+    {
+      "title": "Eire",
+      "description": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",
+      "photo": [
+        "http://dummyimage.com/196x100.png/dddddd/000000",
+        "http://dummyimage.com/164x100.png/ff4444/ffffff",
+        "http://dummyimage.com/126x100.png/5fa2dd/ffffff"
+      ],
+      "category": "Sofas",
+      "color": "Pink",
+      "condition": "Gently Used",
+      "publishDate": "05/04/2023",
+      "isAtStorage": "05/11/2022",
+      "address": "8th Floor",
+      "donerName": "Ban Berk",
+      "donerPhone": "208-426-3780",
+      "furnitureID": "67620091426150874"
+    },
+    {
+      "title": "Skinte",
+      "description": "Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+      "photo": [
+        "http://dummyimage.com/238x100.png/ff4444/ffffff",
+        "http://dummyimage.com/173x100.png/cc0000/ffffff",
+        "http://dummyimage.com/125x100.png/dddddd/000000"
+      ],
+      "category": "Sofas",
+      "color": "Blue",
+      "condition": "Excellent",
+      "publishDate": "06/06/2023",
+      "isAtStorage": "25/03/2023",
+      "address": "Apt 1791",
+      "donerName": "Bili Sarath",
+      "donerPhone": "322-405-3813",
+      "furnitureID": "50386888301647506"
+    },
+    {
+      "title": "Pixonyx",
+      "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+      "photo": [
+        "http://dummyimage.com/165x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/107x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/224x100.png/cc0000/ffffff"
+      ],
+      "category": "Beds",
+      "color": "Purple",
+      "condition": "Used",
+      "publishDate": "10/12/2022",
+      "isAtStorage": "16/09/2023",
+      "address": "Apt 817",
+      "donerName": "Lazarus Starbeck",
+      "donerPhone": "515-752-5456",
+      "furnitureID": "5602233217144720320"
+    },
+    {
+      "title": "Livefish",
+      "description": "Integer ac neque. Duis bibendum.",
+      "photo": [
+        "http://dummyimage.com/157x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/170x100.png/ff4444/ffffff",
+        "http://dummyimage.com/170x100.png/dddddd/000000"
+      ],
+      "category": "Electronics",
+      "color": "MultiColor",
+      "condition": "Link New",
+      "publishDate": "23/10/2022",
+      "isAtStorage": "09/03/2023",
+      "address": "PO Box 93639",
+      "donerName": "Trina Westwater",
+      "donerPhone": "987-111-8412",
+      "furnitureID": "5100145955286191"
+    },
+    {
+      "title": "Browsebug",
+      "description": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy.",
+      "photo": [
+        "http://dummyimage.com/107x100.png/dddddd/000000",
+        "http://dummyimage.com/149x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/163x100.png/cc0000/ffffff"
+      ],
+      "category": "Tables",
+      "color": "Orange",
+      "condition": "Gently Used",
+      "publishDate": "18/01/2023",
+      "isAtStorage": "22/12/2022",
+      "address": "Suite 100",
+      "donerName": "Willabella Pie",
+      "donerPhone": "960-510-1707",
+      "furnitureID": "3589110619510803"
+    },
+    {
+      "title": "Gigashots",
+      "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+      "photo": [
+        "http://dummyimage.com/161x100.png/cc0000/ffffff",
+        "http://dummyimage.com/204x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/163x100.png/cc0000/ffffff"
+      ],
+      "category": "Tables",
+      "color": "Orange",
+      "condition": "Salvage",
+      "publishDate": "01/06/2023",
+      "isAtStorage": "08/04/2023",
+      "address": "Room 974",
+      "donerName": "Paulina Ellerey",
+      "donerPhone": "327-883-3598",
+      "furnitureID": "490382552409141315"
+    },
+    {
+      "title": "Quaxo",
+      "description": "Proin eu mi. Nulla ac enim.",
+      "photo": [
+        "http://dummyimage.com/129x100.png/cc0000/ffffff",
+        "http://dummyimage.com/116x100.png/ff4444/ffffff",
+        "http://dummyimage.com/137x100.png/dddddd/000000"
+      ],
+      "category": "Storage",
+      "color": "Blue",
+      "condition": "Excellent",
+      "publishDate": "19/05/2023",
+      "isAtStorage": "11/04/2023",
+      "address": "Apt 1556",
+      "donerName": "Jeannine Perett",
+      "donerPhone": "253-763-1932",
+      "furnitureID": "3539090677809563"
+    },
+    {
+      "title": "Divavu",
+      "description": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.",
+      "photo": [
+        "http://dummyimage.com/219x100.png/ff4444/ffffff",
+        "http://dummyimage.com/223x100.png/dddddd/000000",
+        "http://dummyimage.com/227x100.png/dddddd/000000"
+      ],
+      "category": "Sofas",
+      "color": "White",
+      "condition": "Salvage",
+      "publishDate": "12/03/2023",
+      "isAtStorage": "25/08/2023",
+      "address": "Room 1274",
+      "donerName": "Lauretta Puleque",
+      "donerPhone": "586-886-1302",
+      "furnitureID": "67712075995721164"
+    },
+    {
+      "title": "Katz",
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.",
+      "photo": [
+        "http://dummyimage.com/228x100.png/ff4444/ffffff",
+        "http://dummyimage.com/249x100.png/ff4444/ffffff",
+        "http://dummyimage.com/141x100.png/dddddd/000000"
+      ],
+      "category": "Beds",
+      "color": "Green",
+      "condition": "Excellent",
+      "publishDate": "22/01/2023",
+      "isAtStorage": "23/03/2023",
+      "address": "Room 1547",
+      "donerName": "Ciro Vasyushkhin",
+      "donerPhone": "439-930-2059",
+      "furnitureID": "372301415274143"
+    },
+    {
+      "title": "Gabtype",
+      "description": "Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.",
+      "photo": [
+        "http://dummyimage.com/106x100.png/dddddd/000000",
+        "http://dummyimage.com/222x100.png/cc0000/ffffff",
+        "http://dummyimage.com/225x100.png/dddddd/000000"
+      ],
+      "category": "Tables",
+      "color": "Black",
+      "condition": "Link New",
+      "publishDate": "21/05/2023",
+      "isAtStorage": "13/09/2023",
+      "address": "Apt 526",
+      "donerName": "Minnnie Causer",
+      "donerPhone": "975-674-4255",
+      "furnitureID": "3532322666383970"
+    },
+    {
+      "title": "Tagpad",
+      "description": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "photo": [
+        "http://dummyimage.com/165x100.png/ff4444/ffffff",
+        "http://dummyimage.com/178x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/235x100.png/ff4444/ffffff"
+      ],
+      "category": "Sofas",
+      "color": "Pink",
+      "condition": "Salvage",
+      "publishDate": "31/03/2023",
+      "isAtStorage": "19/06/2023",
+      "address": "18th Floor",
+      "donerName": "Neville Bearns",
+      "donerPhone": "374-747-5985",
+      "furnitureID": "589379258727198227"
+    },
+    {
+      "title": "Eidel",
+      "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum.",
+      "photo": [
+        "http://dummyimage.com/182x100.png/ff4444/ffffff",
+        "http://dummyimage.com/120x100.png/cc0000/ffffff",
+        "http://dummyimage.com/226x100.png/cc0000/ffffff"
+      ],
+      "category": "Electronics",
+      "color": "Grey",
+      "condition": "Link New",
+      "publishDate": "12/05/2023",
+      "isAtStorage": "23/11/2022",
+      "address": "15th Floor",
+      "donerName": "Ronnica Gilpin",
+      "donerPhone": "380-641-5022",
+      "furnitureID": "501850127726092389"
+    },
+    {
+      "title": "Meevee",
+      "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+      "photo": [
+        "http://dummyimage.com/236x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/120x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/207x100.png/dddddd/000000"
+      ],
+      "category": "Electronics",
+      "color": "Blue",
+      "condition": "Used",
+      "publishDate": "30/07/2023",
+      "isAtStorage": "23/03/2023",
+      "address": "PO Box 31246",
+      "donerName": "Cynthie Sloat",
+      "donerPhone": "688-388-3066",
+      "furnitureID": "4699855144700"
+    },
+    {
+      "title": "Bubblebox",
+      "description": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",
+      "photo": [
+        "http://dummyimage.com/130x100.png/cc0000/ffffff",
+        "http://dummyimage.com/202x100.png/dddddd/000000",
+        "http://dummyimage.com/239x100.png/ff4444/ffffff"
+      ],
+      "category": "Storage",
+      "color": "Orange",
+      "condition": "Salvage",
+      "publishDate": "06/01/2023",
+      "isAtStorage": "02/12/2022",
+      "address": "2nd Floor",
+      "donerName": "Steffi Peperell",
+      "donerPhone": "975-274-4618",
+      "furnitureID": "3555945797205258"
+    },
+    {
+      "title": "Jabberstorm",
+      "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+      "photo": [
+        "http://dummyimage.com/176x100.png/ff4444/ffffff",
+        "http://dummyimage.com/107x100.png/ff4444/ffffff",
+        "http://dummyimage.com/187x100.png/cc0000/ffffff"
+      ],
+      "category": "Beds",
+      "color": "Pink",
+      "condition": "Excellent",
+      "publishDate": "14/01/2023",
+      "isAtStorage": "07/07/2023",
+      "address": "Room 610",
+      "donerName": "Ronnie Nield",
+      "donerPhone": "174-103-3676",
+      "furnitureID": "3536602669761892"
+    },
+    {
+      "title": "Voonix",
+      "description": "Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst.",
+      "photo": [
+        "http://dummyimage.com/164x100.png/ff4444/ffffff",
+        "http://dummyimage.com/148x100.png/ff4444/ffffff",
+        "http://dummyimage.com/221x100.png/ff4444/ffffff"
+      ],
+      "category": "Electronics",
+      "color": "Grey",
+      "condition": "Salvage",
+      "publishDate": "16/07/2023",
+      "isAtStorage": "11/03/2023",
+      "address": "20th Floor",
+      "donerName": "Madlen Baton",
+      "donerPhone": "552-856-6509",
+      "furnitureID": "374288161753206"
+    },
+    {
+      "title": "Agivu",
+      "description": "Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus.",
+      "photo": [
+        "http://dummyimage.com/106x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/242x100.png/cc0000/ffffff",
+        "http://dummyimage.com/118x100.png/cc0000/ffffff"
+      ],
+      "category": "Tables",
+      "color": "Red",
+      "condition": "Excellent",
+      "publishDate": "19/06/2023",
+      "isAtStorage": "11/02/2023",
+      "address": "PO Box 38726",
+      "donerName": "Wren Braniff",
+      "donerPhone": "608-334-9393",
+      "furnitureID": "3581251551940349"
+    },
+    {
+      "title": "Wikibox",
+      "description": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+      "photo": [
+        "http://dummyimage.com/224x100.png/cc0000/ffffff",
+        "http://dummyimage.com/221x100.png/cc0000/ffffff",
+        "http://dummyimage.com/183x100.png/cc0000/ffffff"
+      ],
+      "category": "Electronics",
+      "color": "Yellow",
+      "condition": "Link New",
+      "publishDate": "09/12/2022",
+      "isAtStorage": "22/02/2023",
+      "address": "9th Floor",
+      "donerName": "Elie Winning",
+      "donerPhone": "289-391-6441",
+      "furnitureID": "4041597343999296"
+    },
+    {
+      "title": "Latz",
+      "description": "Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+      "photo": [
+        "http://dummyimage.com/249x100.png/ff4444/ffffff",
+        "http://dummyimage.com/186x100.png/cc0000/ffffff",
+        "http://dummyimage.com/228x100.png/cc0000/ffffff"
+      ],
+      "category": "Electronics",
+      "color": "Blue",
+      "condition": "Link New",
+      "publishDate": "30/03/2023",
+      "isAtStorage": "14/08/2023",
+      "address": "Room 1911",
+      "donerName": "Daryl Crossfeld",
+      "donerPhone": "952-641-9509",
+      "furnitureID": "3566243339209476"
+    },
+    {
+      "title": "Reallinks",
+      "description": "In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.",
+      "photo": [
+        "http://dummyimage.com/185x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/103x100.png/ff4444/ffffff",
+        "http://dummyimage.com/181x100.png/ff4444/ffffff"
+      ],
+      "category": "Tables",
+      "color": "White",
+      "condition": "Salvage",
+      "publishDate": "02/05/2023",
+      "isAtStorage": "25/09/2022",
+      "address": "Suite 10",
+      "donerName": "Adelind Otson",
+      "donerPhone": "377-918-0204",
+      "furnitureID": "3587030655160887"
+    },
+    {
+      "title": "Bubblemix",
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+      "photo": [
+        "http://dummyimage.com/214x100.png/ff4444/ffffff",
+        "http://dummyimage.com/220x100.png/ff4444/ffffff",
+        "http://dummyimage.com/140x100.png/ff4444/ffffff"
+      ],
+      "category": "Sofas",
+      "color": "Brown",
+      "condition": "Gently Used",
+      "publishDate": "25/02/2023",
+      "isAtStorage": "09/07/2023",
+      "address": "10th Floor",
+      "donerName": "Melli Burwell",
+      "donerPhone": "715-137-8263",
+      "furnitureID": "63048751641723051"
+    },
+    {
+      "title": "Youbridge",
+      "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+      "photo": [
+        "http://dummyimage.com/219x100.png/cc0000/ffffff",
+        "http://dummyimage.com/202x100.png/cc0000/ffffff",
+        "http://dummyimage.com/186x100.png/dddddd/000000"
+      ],
+      "category": "Beds",
+      "color": "Green",
+      "condition": "Link New",
+      "publishDate": "12/03/2023",
+      "isAtStorage": "07/08/2023",
+      "address": "PO Box 7953",
+      "donerName": "Fawne Sargison",
+      "donerPhone": "187-500-6144",
+      "furnitureID": "5020259883629559"
+    },
+    {
+      "title": "Gabtune",
+      "description": "In hac habitasse platea dictumst.",
+      "photo": [
+        "http://dummyimage.com/132x100.png/dddddd/000000",
+        "http://dummyimage.com/207x100.png/dddddd/000000",
+        "http://dummyimage.com/216x100.png/ff4444/ffffff"
+      ],
+      "category": "Electronics",
+      "color": "Black",
+      "condition": "Gently Used",
+      "publishDate": "15/07/2023",
+      "isAtStorage": "09/09/2023",
+      "address": "Suite 54",
+      "donerName": "Alane Evert",
+      "donerPhone": "285-380-7376",
+      "furnitureID": "3581878427938873"
+    },
+    {
+      "title": "Yabox",
+      "description": "Proin eu mi. Nulla ac enim.",
+      "photo": [
+        "http://dummyimage.com/172x100.png/cc0000/ffffff",
+        "http://dummyimage.com/131x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/117x100.png/5fa2dd/ffffff"
+      ],
+      "category": "Tables",
+      "color": "MultiColor",
+      "condition": "Excellent",
+      "publishDate": "08/07/2023",
+      "isAtStorage": "19/03/2023",
+      "address": "7th Floor",
+      "donerName": "Hubert Bickley",
+      "donerPhone": "410-517-4806",
+      "furnitureID": "3538144749861580"
+    },
+    {
+      "title": "Devcast",
+      "description": "Proin at turpis a pede posuere nonummy.",
+      "photo": [
+        "http://dummyimage.com/238x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/227x100.png/cc0000/ffffff",
+        "http://dummyimage.com/127x100.png/5fa2dd/ffffff"
+      ],
+      "category": "Storage",
+      "color": "Orange",
+      "condition": "Link New",
+      "publishDate": "20/10/2022",
+      "isAtStorage": "10/01/2023",
+      "address": "18th Floor",
+      "donerName": "Andria Robus",
+      "donerPhone": "793-370-5060",
+      "furnitureID": "6381114535883487"
+    },
+    {
+      "title": "Kwimbee",
+      "description": "Phasellus in felis. Donec semper sapien a libero.",
+      "photo": [
+        "http://dummyimage.com/165x100.png/cc0000/ffffff",
+        "http://dummyimage.com/120x100.png/cc0000/ffffff",
+        "http://dummyimage.com/188x100.png/cc0000/ffffff"
+      ],
+      "category": "Electronics",
+      "color": "Red",
+      "condition": "Excellent",
+      "publishDate": "25/06/2023",
+      "isAtStorage": "10/04/2023",
+      "address": "9th Floor",
+      "donerName": "Karoline Menere",
+      "donerPhone": "619-446-5990",
+      "furnitureID": "3542942323680548"
+    },
+    {
+      "title": "Realfire",
+      "description": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum.",
+      "photo": [
+        "http://dummyimage.com/178x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/195x100.png/ff4444/ffffff",
+        "http://dummyimage.com/135x100.png/5fa2dd/ffffff"
+      ],
+      "category": "Sofas",
+      "color": "Blue",
+      "condition": "Gently Used",
+      "publishDate": "10/12/2022",
+      "isAtStorage": "27/07/2023",
+      "address": "Suite 4",
+      "donerName": "Editha Billison",
+      "donerPhone": "647-746-6211",
+      "furnitureID": "374288288052383"
+    },
+    {
+      "title": "Aibox",
+      "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "photo": [
+        "http://dummyimage.com/228x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/134x100.png/dddddd/000000",
+        "http://dummyimage.com/108x100.png/dddddd/000000"
+      ],
+      "category": "Beds",
+      "color": "Black",
+      "condition": "Link New",
+      "publishDate": "08/05/2023",
+      "isAtStorage": "30/07/2023",
+      "address": "1st Floor",
+      "donerName": "Sarge Vodden",
+      "donerPhone": "265-479-1745",
+      "furnitureID": "201869624631862"
+    },
+    {
+      "title": "Roomm",
+      "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+      "photo": [
+        "http://dummyimage.com/243x100.png/cc0000/ffffff",
+        "http://dummyimage.com/117x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/104x100.png/ff4444/ffffff"
+      ],
+      "category": "Sofas",
+      "color": "White",
+      "condition": "Link New",
+      "publishDate": "04/03/2023",
+      "isAtStorage": "12/11/2022",
+      "address": "Room 514",
+      "donerName": "Babbie Hamsson",
+      "donerPhone": "678-505-4399",
+      "furnitureID": "675926590189543051"
+    },
+    {
+      "title": "Babbleopia",
+      "description": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl.",
+      "photo": [
+        "http://dummyimage.com/194x100.png/ff4444/ffffff",
+        "http://dummyimage.com/225x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/203x100.png/5fa2dd/ffffff"
+      ],
+      "category": "Electronics",
+      "color": "Green",
+      "condition": "Gently Used",
+      "publishDate": "03/06/2023",
+      "isAtStorage": "30/04/2023",
+      "address": "14th Floor",
+      "donerName": "Slade Tesimon",
+      "donerPhone": "944-904-0390",
+      "furnitureID": "5602246181035270"
+    },
+    {
+      "title": "Kwilith",
+      "description": "Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst.",
+      "photo": [
+        "http://dummyimage.com/239x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/131x100.png/cc0000/ffffff",
+        "http://dummyimage.com/237x100.png/5fa2dd/ffffff"
+      ],
+      "category": "Beds",
+      "color": "Orange",
+      "condition": "Excellent",
+      "publishDate": "29/09/2022",
+      "isAtStorage": "26/10/2022",
+      "address": "7th Floor",
+      "donerName": "Dita Burdess",
+      "donerPhone": "897-556-9009",
+      "furnitureID": "30282241508579"
+    },
+    {
+      "title": "Oloo",
+      "description": "Aliquam quis turpis eget elit sodales scelerisque.",
+      "photo": [
+        "http://dummyimage.com/152x100.png/ff4444/ffffff",
+        "http://dummyimage.com/104x100.png/cc0000/ffffff",
+        "http://dummyimage.com/119x100.png/cc0000/ffffff"
+      ],
+      "category": "Sofas",
+      "color": "Blue",
+      "condition": "Link New",
+      "publishDate": "24/02/2023",
+      "isAtStorage": "02/11/2022",
+      "address": "PO Box 30757",
+      "donerName": "Colette Harlett",
+      "donerPhone": "850-167-9539",
+      "furnitureID": "4905331270015401479"
+    },
+    {
+      "title": "Quinu",
+      "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",
+      "photo": [
+        "http://dummyimage.com/250x100.png/ff4444/ffffff",
+        "http://dummyimage.com/142x100.png/cc0000/ffffff",
+        "http://dummyimage.com/134x100.png/cc0000/ffffff"
+      ],
+      "category": "Storage",
+      "color": "Orange",
+      "condition": "Used",
+      "publishDate": "03/06/2023",
+      "isAtStorage": "22/05/2023",
+      "address": "19th Floor",
+      "donerName": "Celesta Cortez",
+      "donerPhone": "215-964-4124",
+      "furnitureID": "4017953851102"
+    },
+    {
+      "title": "Kwimbee",
+      "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+      "photo": [
+        "http://dummyimage.com/216x100.png/dddddd/000000",
+        "http://dummyimage.com/199x100.png/cc0000/ffffff",
+        "http://dummyimage.com/184x100.png/cc0000/ffffff"
+      ],
+      "category": "Storage",
+      "color": "Orange",
+      "condition": "Gently Used",
+      "publishDate": "12/04/2023",
+      "isAtStorage": "29/12/2022",
+      "address": "Suite 11",
+      "donerName": "Bordy Rawstorn",
+      "donerPhone": "750-731-7207",
+      "furnitureID": "3534582479113827"
+    },
+    {
+      "title": "Twimbo",
+      "description": "Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+      "photo": [
+        "http://dummyimage.com/221x100.png/dddddd/000000",
+        "http://dummyimage.com/207x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/140x100.png/5fa2dd/ffffff"
+      ],
+      "category": "Sofas",
+      "color": "Green",
+      "condition": "Gently Used",
+      "publishDate": "26/02/2023",
+      "isAtStorage": "02/06/2023",
+      "address": "5th Floor",
+      "donerName": "Orel Minster",
+      "donerPhone": "937-996-7315",
+      "furnitureID": "4041370849002"
+    },
+    {
+      "title": "Quimm",
+      "description": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "photo": [
+        "http://dummyimage.com/181x100.png/dddddd/000000",
+        "http://dummyimage.com/108x100.png/dddddd/000000",
+        "http://dummyimage.com/182x100.png/ff4444/ffffff"
+      ],
+      "category": "Storage",
+      "color": "Black",
+      "condition": "Link New",
+      "publishDate": "10/07/2023",
+      "isAtStorage": "22/07/2023",
+      "address": "Suite 99",
+      "donerName": "Arlin Cristofanini",
+      "donerPhone": "106-774-3987",
+      "furnitureID": "5522222465692695"
+    },
+    {
+      "title": "Gabspot",
+      "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.",
+      "photo": [
+        "http://dummyimage.com/126x100.png/cc0000/ffffff",
+        "http://dummyimage.com/121x100.png/dddddd/000000",
+        "http://dummyimage.com/250x100.png/cc0000/ffffff"
+      ],
+      "category": "Sofas",
+      "color": "Black",
+      "condition": "Used",
+      "publishDate": "15/06/2023",
+      "isAtStorage": "16/01/2023",
+      "address": "10th Floor",
+      "donerName": "Nancie Cicchelli",
+      "donerPhone": "810-763-7947",
+      "furnitureID": "5602237457482569"
+    },
+    {
+      "title": "Jabberbean",
+      "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "photo": [
+        "http://dummyimage.com/238x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/187x100.png/ff4444/ffffff",
+        "http://dummyimage.com/249x100.png/5fa2dd/ffffff"
+      ],
+      "category": "Beds",
+      "color": "Green",
+      "condition": "Link New",
+      "publishDate": "21/08/2023",
+      "isAtStorage": "11/06/2023",
+      "address": "Suite 94",
+      "donerName": "Donica Scard",
+      "donerPhone": "850-284-4077",
+      "furnitureID": "3544845156659711"
+    },
+    {
+      "title": "Topicstorm",
+      "description": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",
+      "photo": [
+        "http://dummyimage.com/236x100.png/cc0000/ffffff",
+        "http://dummyimage.com/170x100.png/cc0000/ffffff",
+        "http://dummyimage.com/247x100.png/ff4444/ffffff"
+      ],
+      "category": "Electronics",
+      "color": "Yellow",
+      "condition": "Link New",
+      "publishDate": "03/11/2022",
+      "isAtStorage": "16/04/2023",
+      "address": "Apt 1800",
+      "donerName": "Tildie Southall",
+      "donerPhone": "649-301-5956",
+      "furnitureID": "5018350628332148"
+    },
+    {
+      "title": "Topicstorm",
+      "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.",
+      "photo": [
+        "http://dummyimage.com/225x100.png/ff4444/ffffff",
+        "http://dummyimage.com/174x100.png/ff4444/ffffff",
+        "http://dummyimage.com/150x100.png/cc0000/ffffff"
+      ],
+      "category": "Tables",
+      "color": "Yellow",
+      "condition": "Gently Used",
+      "publishDate": "09/07/2023",
+      "isAtStorage": "07/04/2023",
+      "address": "Suite 43",
+      "donerName": "Almeda Toleman",
+      "donerPhone": "152-209-4685",
+      "furnitureID": "491181012651614551"
+    },
+    {
+      "title": "Jazzy",
+      "description": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl.",
+      "photo": [
+        "http://dummyimage.com/171x100.png/dddddd/000000",
+        "http://dummyimage.com/156x100.png/ff4444/ffffff",
+        "http://dummyimage.com/137x100.png/dddddd/000000"
+      ],
+      "category": "Electronics",
+      "color": "White",
+      "condition": "Salvage",
+      "publishDate": "01/11/2022",
+      "isAtStorage": "04/05/2023",
+      "address": "11th Floor",
+      "donerName": "Alfy Domoney",
+      "donerPhone": "703-686-4126",
+      "furnitureID": "3528584902585363"
+    },
+    {
+      "title": "Katz",
+      "description": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",
+      "photo": [
+        "http://dummyimage.com/115x100.png/5fa2dd/ffffff",
+        "http://dummyimage.com/191x100.png/ff4444/ffffff",
+        "http://dummyimage.com/229x100.png/cc0000/ffffff"
+      ],
+      "category": "Tables",
+      "color": "MultiColor",
+      "condition": "Used",
+      "publishDate": "08/02/2023",
+      "isAtStorage": "09/01/2023",
+      "address": "PO Box 42382",
+      "donerName": "Jacob Gatecliffe",
+      "donerPhone": "133-352-6283",
+      "furnitureID": "3537181762846057"
+    },
+    {
+      "title": "Devpoint",
+      "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
+      "photo": [
+        "http://dummyimage.com/123x100.png/dddddd/000000",
+        "http://dummyimage.com/230x100.png/ff4444/ffffff",
+        "http://dummyimage.com/107x100.png/5fa2dd/ffffff"
+      ],
+      "category": "Storage",
+      "color": "Red",
+      "condition": "Excellent",
+      "publishDate": "11/04/2023",
+      "isAtStorage": "15/03/2023",
+      "address": "7th Floor",
+      "donerName": "Gerta Brindley",
+      "donerPhone": "664-596-1895",
+      "furnitureID": "373296092746489"
+    }
+  ]
